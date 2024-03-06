@@ -3,7 +3,7 @@
     "path": "~/Politics/marathon-main/scripts/02-data_cleaning.R",
     "project_path": "marathon-main/scripts/02-data_cleaning.R",
     "type": "r_source",
-    "hash": "2303511535",
+    "hash": "0",
     "contents": "",
     "dirty": true,
     "created": 1709685823847.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "25,7",
-        "scrollLine": "5"
+        "cursorPosition": "62,0",
+        "scrollLine": "42"
     },
     "folds": "",
     "lastKnownWriteTime": 1709684879,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1709686210628,
+    "last_content_update": 1709686807647,
     "read_only": false,
     "read_only_alternatives": []
 }
