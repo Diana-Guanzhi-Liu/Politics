@@ -1,0 +1,84 @@
+"1","
+"
+"1","  Binaries will be installed
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/ggplot2_3.5.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 4823235 bytes (4.6 MB)
+"
+"2","downloaded 4.6 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/quadprog_1.5-8.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 37185 bytes (36 KB)
+"
+"2","downloaded 36 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/svUnit_1.0.6.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 614489 bytes (600 KB)
+"
+"2","downloaded 600 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/ggdist_3.3.1.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 3461155 bytes (3.3 MB)
+"
+"2","downloaded 3.3 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/arrayhelpers_1.1-0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 99713 bytes (97 KB)
+"
+"2","downloaded 97 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/tidybayes_3.0.6.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 2634029 bytes (2.5 MB)
+"
+"2","downloaded 2.5 MB
+
+"
+"1","package ‘ggplot2’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘quadprog’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘svUnit’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘ggdist’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘arrayhelpers’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘tidybayes’ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"1",""
+"1","The downloaded binary packages are in
+	C:\Users\Diana\AppData\Local\Temp\Rtmp0SRnBb\downloaded_packages"
+"1",""
+"1","
+"
+"0","library(boot)"
+"0","library(broom.mixed)"
+"0","library(collapse)"
+"0","library(dataverse)"
+"0","library(gutenbergr)"
+"0","library(janitor)"
+"0","library(knitr)"
+"0","library(marginaleffects)"
+"0","library(modelsummary)"
+"0","library(rstanarm)"
+"0","library(tidybayes)"
+"0","library(tidyverse)"
